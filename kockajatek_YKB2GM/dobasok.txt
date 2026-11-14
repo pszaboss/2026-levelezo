@@ -1,0 +1,8 @@
+Dobások: 9
+Eredmények: 2, 4, 5, 2, 5, 4, 3, 2, 2
+1: 0 alkalom
+2: 4 alkalom
+3: 1 alkalom
+4: 2 alkalom
+5: 2 alkalom
+6: 0 alkalom
